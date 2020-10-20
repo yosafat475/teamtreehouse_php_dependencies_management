@@ -1,0 +1,14 @@
+{
+    "name": "yoazdidevel/introduce_composer1",
+    "description": "import package to porjec",
+    "type": "projec",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "yoazdidevel",
+            "email": "adiyosafat@gmail.com"
+        }
+    ]
+}

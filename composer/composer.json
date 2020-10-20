@@ -1,0 +1,11 @@
+{
+    "name": "yoazdi/composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yoazdi",
+            "email": "adiyosafat@gmail.com"
+        }
+    ],
+    "require": {}
+}

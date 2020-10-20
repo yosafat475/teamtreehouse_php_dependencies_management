@@ -1,0 +1,14 @@
+{
+    "name": "yoazdi/project_phpmailer",
+    "description": "tes phpmailer to server gmail",
+    "authors": [
+        {
+            "name": "yoazdi",
+            "email": "adiyosafat@mail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    }
+}
